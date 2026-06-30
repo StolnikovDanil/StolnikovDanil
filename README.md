@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi, I'm Danyil 👋
 
-<!--
-**StolnikovDanil/StolnikovDanil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer with 2+ years of freelance experience building production-ready React applications.
 
-Here are some ideas to get you started:
+I specialize in TypeScript, Redux Toolkit / RTK Query, and REST API integration — turning designs into clean, scalable, and maintainable interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently building **DashStack** — a full-stack SaaS dashboard with JWT auth, RBAC, automated testing (Vitest + Playwright), and CI/CD.
+
+🌱 Focused on clean component architecture, security best practices, and production-grade code quality.
+
+💼 Open to new opportunities — let's connect.
+
+---
+
+**Tech stack**
+
+`React` `TypeScript` `Redux Toolkit` `RTK Query` `Express` `Prisma` `PostgreSQL` `Vite` `SCSS` `Vitest` `Playwright`
+
+**Featured project**
+
+🚀 [DashStack — SaaS Dashboard](https://github.com/StolnikovDanil/saas-dashboard-pet-project)
+Full-stack order & invoice management app with JWT auth, RBAC, CI/CD, and full test coverage.
+
+**Connect**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stolnikov-daniil/)
