@@ -21,6 +21,7 @@ I specialize in TypeScript, Redux Toolkit / RTK Query, REST API integration, and
 📝 [Digital Agency CMS](https://github.com/StolnikovDanil/digital-agency-cms) — Full-stack SSR blog CMS built with Next.js 16, Express, and Prisma; JWT-protected admin panel, deployed on Vercel + Render.
 
 🔐 [AuthBackend](https://github.com/StolnikovDanil/AuthBackend) — Standalone authentication API with refresh token rotation, RBAC, and rate limiting.
+
 **Connect**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stolnikov-daniil/)
